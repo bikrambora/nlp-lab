@@ -1,8 +1,16 @@
 ## Building an NLP-powered search index with Amazon Textract and Amazon Comprehend
 
+>This lab is provided as part of **[AWS Innovate AI/ML Edition](https://aws.amazon.com/events/aws-innovate/machine-learning/)**, click [here](https://github.com/phonghuule/aws-innovate-ai-ml) to explore the full list of hands-on labs.
+:information_source:
+ You will run this lab in your own AWS account. Please follow directions
+ at the end of the lab to remove resources to avoid future costs.
+
+
 In this lab we will walk you through creating an NLP-powered search index with Amazon Textract and Amazon Comprehend as an automated content-processing pipeline for storing and analyzing scanned image documents. For pdf document processing, please refer AWS Sample github repository to use [Textractor](https://github.com/aws-samples/amazon-textract-textractor).
 
 This is a labified version of this AWS Blog [Post](https://aws.amazon.com/blogs/machine-learning/building-an-nlp-powered-search-index-with-amazon-textract-and-amazon-comprehend/)
+
+
 
 Architecture
 ------------
@@ -145,3 +153,11 @@ This moves the fields to the Selected Fields menu. Your Kibana dashboard formu
 To look at your original document, choose s3link.
 
 Note: You can also add forms and table to view and search tables and forms.
+
+
+## Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_b7mXqfAaiIZUnn8?Session=Lab7).
+Participants
+ who complete the surveys from AWS Innovate Online Conference - AI &
+ Machine Learning Edition will receive a gift code for USD25 in AWS
+credits. AWS credits will be sent via email by 31 March, 2021.
